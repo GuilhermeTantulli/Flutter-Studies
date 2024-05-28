@@ -1,5 +1,4 @@
-/// Type Casting in Dart
-main() {
+void main() {
   // String to int
   var one = int.parse('1');
   print("1.");

@@ -1,4 +1,4 @@
-import 'package:variaveis/variaveis.dart';
+import 'package:dart_project_3_listas/dart_project_3_listas.dart';
 import 'package:test/test.dart';
 
 void main() {
