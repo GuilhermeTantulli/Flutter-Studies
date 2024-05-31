@@ -1,3 +1,3 @@
-## 1.0.0
+## 1.0.1
 
-- Initial version.
+- Removed the info from the lib and test files.

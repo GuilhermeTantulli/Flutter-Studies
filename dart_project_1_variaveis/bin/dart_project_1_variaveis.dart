@@ -34,8 +34,8 @@ void main() {
   /// PRINTS
   // age é uma variável do tipo Var -> portanto seu valor pode ser alterado futuramente
   // name é uma variável do tipo Const -> seu valor não pode ser alterado futuramente
-  print('Meu nome é $name, meu apelido é $apelido, tenho ${age = 24} anos de idade e $height metros de altura.');
-
+  print('Meu nome é $name, meu apelido é $apelido, tenho ${age = 24} anos de idade e $height metros de altura.\n');
+  
   print('Quando comparo, como igualdades, os valores da minha altura com minha idade, obtenho o resultado: $compareFalse.\n'
   'Porém se comparo minha altura em metros com minha altura em centímetros, obtenho o resultado: $compareTrue.');
 }
