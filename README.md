@@ -1,5 +1,9 @@
 # Flutter-Studies
 Repository for Flutter projects in Dart language
+
+## TODO
+### Update all projects to the newest Dart Version
+
 * - [x] Projeto 1 - Variáveis (String, int, double, bool)
    * - [x] Projeto 1.1 - Var, Const & Final
 * - [x] Projeto 2 - Casting (String -> int / String -> double / int -> String / double -> String)
